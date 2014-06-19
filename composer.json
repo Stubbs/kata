@@ -1,0 +1,18 @@
+{
+    "name": "stu/kata",
+    "description": "Empty repo with phpunit & phpspec for code katas",
+    "require-dev": {
+        "phpspec/phpspec": "2.1.*@dev",
+        "phpunit/phpunit": "4.3.*@dev",
+        "phpspec/nyan-formatters": "1.0.*@dev"
+    },
+    "authors": [
+        {
+            "name": "Stuart Grimshaw",
+            "email": "stuart.grimshaw@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
